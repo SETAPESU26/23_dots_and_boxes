@@ -1,4 +1,4 @@
-# 23_dots_and_boxes
+# Scenario 23 - Dots and Boxes
 
 ## Overview
 
